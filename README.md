@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yash03rathore
+- 👋 Hi, I’m Yashwardhan Rathore
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning coding
 
